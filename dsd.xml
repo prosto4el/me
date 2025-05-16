@@ -1,6 +1,18 @@
-<odam>
-    <ism>Fayzulloh</ism>
-    <sharif>Zubaydullaev</sharif>
-    <nomi>Internation school</nomi>
-    <fan>Ingiliz tili</fan>
-</odam>
+<user>
+    <me>
+    <name>Fayzulloh</name>
+    <lastname>Zubaydullaev</lastname>
+    <education type="language school">
+        <name>Intertnation school</name>
+        <subject>english language</subject>
+    </education>
+    </me>
+    <friend>
+        <name>Sanjar</name>
+        <lastname>umirbekov</lastname>
+        <education type="language school">
+            <name>Internation</name>
+            <subject>english language</subject>
+        </education>
+    </friend>
+</user>
