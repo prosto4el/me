@@ -1,0 +1,24 @@
+<document>
+<cars>
+    <company>BMW</company>
+    <models>
+    <model id="1">bmw m5 e38</model>
+    <model id="2">m5 e60</model>
+    <model id="3">m5 f90</model>
+    <model id="4">m5 cs</model>
+    </models>
+<coulors>
+    <color id="1">black</color>
+    <color id="1">blue</color>
+    <color id="1">white</color>
+    <color id="1">purple</color>
+</coulors>
+
+<prices>
+    <price id="1">6000$</price>
+    <price id="2">30000</price>
+    <price id="3">60000$</price>
+    <price id="4">100000$</price>
+</prices>
+</cars>
+</document>
